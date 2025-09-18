@@ -9,7 +9,7 @@
 Esse repositório contém os 07 projetos desenvolvidos na matéria de WEB-S4, referentes a HTML.
 
 
-- [Atividade 01]()
+- [Atividade 01](https://alicecavalcante.github.io/projeto01/)
 - [Atividade 02](https://alicecavalcante.github.io/projeto02/)
 - [Atividade 03](https://alicecavalcante.github.io/projeto03/)
 - [Atividade 04](https://alicecavalcante.github.io/projeto04/)
